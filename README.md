@@ -21,9 +21,9 @@ Este proyecto permite gestionar contactos de manera sencilla desde la consola. A
 - ⚡ Java JDK 8 o superior.  
 - 🛠️ Entorno de desarrollo compatible (Eclipse, IntelliJ IDEA, NetBeans, etc.).  
 
-##🚀 Mejoras futuras
+## 🚀 Mejoras futuras
 - 🔮 Implementación de una base de datos para persistencia de datos.
 - 🎨 Creación de una interfaz gráfica.
 - 🔐 Autenticación de números de celular mediante una API externa.
-##🤝 Contribuciones
+## 🤝 Contribuciones
 - Las contribuciones son bienvenidas. Si tienes alguna mejora o corrección, puedes enviar un Pull Request o abrir un Issue en el repositorio.
